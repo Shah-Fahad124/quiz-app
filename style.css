@@ -12,14 +12,14 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(24, 128, 207);
+    background-color: rgb(71, 215, 208);
 }
 
 .container {
     width: 35rem;
     box-shadow: 0px 0px 5px grey;
     display: flex;
-    background-color: white;
+    background-color: wheat;
     border-radius: 10px;
     overflow: hidden;
     flex-direction: column;
@@ -33,7 +33,7 @@
 
 #submit {
     width: 100%;
-    background-color: rgb(47, 8, 73);
+    background-color: rgb(97, 216, 97);
     transition: 0.5s;
     color: white;
     outline: none;
@@ -45,7 +45,7 @@
 }
 
 #submit:hover {
-    background-color: rgb(34, 6, 53);
+    background-color: rgb(7, 92, 8);
 }
 
 .box {
